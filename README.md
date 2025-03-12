@@ -4,7 +4,7 @@ Computer-science student at University Regensburg<br/>
 Game-Developer and 3D artist<br/>
 
 <img src="https://www.artstation.com/assets/about/logo/logo-artstation-plain-f084302dffa448a1582a8f7afb171673d1a420f9eddd5baeacbdb88e65089599.png" width="20"> Find me on [Artstation](https://tadeopuga3.artstation.com)<br/>
-<img src="https://static.itch.io/images/itchio-textless-black.svg" width="20"> Find me on [Itch.io](https://tadeopuga.itch.io/)<br/> 
+<img src="https://static.itch.io/images/app-icon.svg" width="20"> Find me on [Itch.io](https://tadeopuga.itch.io/)<br/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" width="20"> Find me on [LinkedIn](www.linkedin.com/in/tadeo-puga-82400b18a)<br/>
 
 
