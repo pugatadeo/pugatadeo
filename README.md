@@ -1,7 +1,8 @@
 # Tadeo-Puga
 
-Computer-science student at University Regensburg<br/>
 Game-Developer and 3D artist<br/>
+Computer-science student at University Regensburg<br/>
+Currently working on a small Survivor-like wave-based shooter<br/>
 
 <img src="https://www.artstation.com/assets/about/logo/logo-artstation-plain-f084302dffa448a1582a8f7afb171673d1a420f9eddd5baeacbdb88e65089599.png" width="20"> Find me on [Artstation](https://tadeopuga3.artstation.com)<br/>
 <img src="https://static.itch.io/images/app-icon.svg" width="20"> Find me on [Itch.io](https://tadeopuga.itch.io/)<br/> 
